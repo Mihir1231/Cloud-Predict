@@ -42,7 +42,7 @@ const Header = () => {
                 
               </div>
               <div>
-                <h1 className="text-4xl font-bold text-glow">Cloud Motion Predecitor</h1>
+                <h1 className="text-4xl font-bold text-glow">Cloud Motion Predictor</h1>
                 <p className="text-xs text-sky-300"></p>
               </div>
             </Link>
