@@ -10,11 +10,11 @@ const Index = () => {
       <Header />
       <main>
         <Hero />
-        <section className="section-padding">
+        
           <div className="container mx-auto">
             
           </div>
-        </section>
+        
       </main>
       <Footer />
     </div>
